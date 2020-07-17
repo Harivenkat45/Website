@@ -611,7 +611,7 @@ mail($mailTo, $subject, $txt);
 			
     	
 			
-            <form method="post" action="index2.php">
+            <form method="post" action="index.php">
 				<div class="row form-group">
 					<div class="col-md-6">
 						<input type="text" id="fname" name="name"  class="form-control" placeholder="Your name">
