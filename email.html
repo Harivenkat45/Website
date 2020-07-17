@@ -1,0 +1,43 @@
+<?php
+if(isset($_POST('sumbit')))
+{
+	$msg='Name:'.$_POST['name']."\n"
+	   .'Email:'.$_POST['email']."\n"
+	   .'comment:'.$_POST['comment'];
+	mail('harivenkat0506@gmail.com','Contact Us',$msg);
+
+}
+else
+{
+	echo "Something Went Wrong";
+}
+?>
+
+<html>
+<h2>Contact us</h2>
+<form action="email.php" method ="post">
+	<ul>
+        <li>
+                 <label for="name">Your name</label>
+                 <input type="text" id="name" name="name">
+
+
+        </li>
+        <li>
+
+                 <label for="email">Your name</label>
+                 <input type="text" id="email" name="email">
+
+        </li>
+        <li>
+
+                 <label for="comment">Your name</label>
+                 <textarea type="text" id="comment" name="comment"></textarea>
+        </li>
+        <li>
+
+                 <input type="submit" id="name" name="submit" value="submit">
+        </li>
+	</ul>
+</form>
+</html>
