@@ -121,8 +121,8 @@ mail($mailTo, $subject, $txt);
 				</div>
 				<div class="col-md-8">
 					<h2>Hello There!</h2>
-					<p>There live the blind texts far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in bookmarksgrove there live the blind texts far from the countries.</p>
-					<p>Far far away, behind the word mountains, Quos quia provident consequuntur culpa facere ratione maxime commodi voluptates id repellat velit eaque aspernatur expedita. Possimus itaque adipisci there live the blind texts from the countries Vokalia and Consonantia, there live the blind texts. Quos quia provident consequuntur culpa facere ratione maxime commodi voluptates id repellat velit eaque aspernatur expedita. Possimus itaque adipisci.</p>
+					<p>Myself HARISH V  Im currently pursuing B.E computer science engineering(CSE) in Prathyusha Engineering College. My wish is to become an entrepreneur  and also in the field of software. </p>
+					<p>I  have some experience to work on web developing and in IOT domain.I did a project in IOT domain and won 1st prizes in Project Expo which is help in TJS Engineering college.I can solve Logical Problems using Python Programming .I hold SILVER BADGE in HackerRank and my aim is to get Gold Badge soon...</p>
 					<p>
 						<ul class="fh5co-social-icons">
 							<li><a href="https://www.twitter.com"><i class="icon-twitter2"></i></a></li>
@@ -153,11 +153,11 @@ mail($mailTo, $subject, $txt);
 							<div class="timeline-badge"><i class="icon-suitcase"></i></div>
 							<div class="timeline-panel">
 								<div class="timeline-heading">
-									<h3 class="timeline-title">Senior Developer</h3>
-									<span class="company">Company Name - 2016 - Current</span>
+									<h3 class="timeline-title">Web Developer</h3>
+									<span class="company">PEC - 2019 - Current</span>
 								</div>
 								<div class="timeline-body">
-									<p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.</p>
+									<p>"love what we do and we do what our clients love & work with great clients all over the world to create thoughtful and purposeful websites." </p>
 								</div>
 							</div>
 						</li>
@@ -165,11 +165,11 @@ mail($mailTo, $subject, $txt);
 							<div class="timeline-badge"><i class="icon-suitcase"></i></div>
 							<div class="timeline-panel">
 								<div class="timeline-heading">
-									<h3 class="timeline-title">Junior Developer</h3>
-									<span class="company">Company Name - 2013 - 2015</span>
+									<h3 class="timeline-title">IOT Developer</h3>
+									<span class="company">PEC - 2017 - 2019</span>
 								</div>
 								<div class="timeline-body">
-									<p>Far far away, behind the word mountains, they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean.</p>
+									<p>"As the Internet of things advances, the very notion of a clear dividing line between reality and virtual reality becomes blurred, sometimes in creative ways."</p>
 								</div>
 							</div>
 						</li>
@@ -178,10 +178,10 @@ mail($mailTo, $subject, $txt);
 							<div class="timeline-panel">
 								<div class="timeline-heading">
 									<h3 class="timeline-title">UI/UX Designer</h3>
-									<span class="company">Company Name - 2010 - 2012</span>
+									<span class="company">PEC - 2019</span>
 								</div>
 								<div class="timeline-body">
-									<p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.</p>
+									<p>"UI is the saddle, the stirrups, & the reins. UX is the feeling you get being able to ride the horse."</p>
 								</div>
 							</div>
 						</li>
@@ -194,11 +194,11 @@ mail($mailTo, $subject, $txt);
 							<div class="timeline-badge"><i class="icon-graduation-cap"></i></div>
 							<div class="timeline-panel">
 								<div class="timeline-heading">
-									<h3 class="timeline-title">Masters Degree</h3>
-									<span class="company">University Name - 2007 - 2009</span>
+									<h3 class="timeline-title">Bachelors Degree</h3>
+									<span class="company">PEC  - 2017 - 2021</span>
 								</div>
 								<div class="timeline-body">
-									<p>Far far away, behind the word mountains, they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean.</p>
+									<p>"It's a Foundation for all who wants its carrier to become Brighter."</p>
 								</div>
 							</div>
 						</li>
@@ -206,23 +206,24 @@ mail($mailTo, $subject, $txt);
 							<div class="timeline-badge"><i class="icon-graduation-cap"></i></div>
 							<div class="timeline-panel">
 								<div class="timeline-heading">
-									<h3 class="timeline-title">Bachelors Degree</h3>
-									<span class="company">University Name - 2002 - 2006</span>
+									<h3 class="timeline-title">Masters Degree</h3>
+									<span class="company">After - 2023</span>
 								</div>
 								<div class="timeline-body">
-									<p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.</p>
+									<p>"Education is the most powerful weapon which you can use to change the world."</p>
 								</div>
 							</div>
 						</li>
+						
 						<li class="timeline-inverted animate-box">
 							<div class="timeline-badge"><i class="icon-graduation-cap"></i></div>
 							<div class="timeline-panel">
 								<div class="timeline-heading">
-									<h3 class="timeline-title">Diploma Course</h3>
-									<span class="company">College Name - 1999 - 2001</span>
+									<h3 class="timeline-title">NPTEL Course</h3>
+									<span class="company">PEC - 2018</span>
 								</div>
 								<div class="timeline-body">
-									<p>Far far away, behind the word mountains, they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean.</p>
+									<p>"Introduction to Programming in C its not end Many more to come....ML loading...."</p>
 								</div>
 							</div>
 						</li>
@@ -231,10 +232,10 @@ mail($mailTo, $subject, $txt);
 							<div class="timeline-panel">
 								<div class="timeline-heading">
 									<h3 class="timeline-title">Graduation</h3>
-									<span class="company">College Name - 1994 - 1998</span>
+									<span class="company">College PEC - 2017 - 2021</span>
 								</div>
 								<div class="timeline-body">
-									<p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.</p>
+									<p>"Life is ten percent what happens to you and ninety percent how you respond to it."</p>
 								</div>
 							</div>
 						</li>
@@ -260,80 +261,47 @@ mail($mailTo, $subject, $txt);
 								<i class="icon-paintbrush"></i>
 							</span>
 							<div class="feature-copy">
-								<h3>Web Design</h3>
-								<p>Facilis ipsum reprehenderit nemo molestias. Aut cum mollitia reprehenderit.</p>
+								<h3>Python</h3>
+								<p>"Everyone knows that any scripting language shootout that doesn't show Python as the best language is faulty by design." </p>
 							</div>
 						</div>
 					</div>
+					
+					<div class="col-md-4 text-center">
 
+						<div class="feature-left">
+							<span class="icon">
+								<i class="icon-briefcase"></i>
+							</span>
+							<div class="feature-copy">
+								<h3>Web Design</h3>
+								<p>"If you're already a front-end developer, well, pretend you're also wearing a pirate hat."</p>
+							</div>
+						</div>
+
+					</div>
+		
+                   
 					<div class="col-md-4 text-center">
 						<div class="feature-left">
 							<span class="icon">
 								<i class="icon-briefcase"></i>
 							</span>
 							<div class="feature-copy">
-								<h3>Branding</h3>
-								<p>Facilis ipsum reprehenderit nemo molestias. Aut cum mollitia reprehenderit.</p>
-							</div>
-						</div>
-
-					</div>
-					<div class="col-md-4 text-center">
-						<div class="feature-left">
-							<span class="icon">
-								<i class="icon-search"></i>
-							</span>
-							<div class="feature-copy">
-								<h3>Analytics</h3>
-								<p>Facilis ipsum reprehenderit nemo molestias. Aut cum mollitia reprehenderit.</p>
+								<h3>AI & ML</h3>
+								<p>"We can build a much brighter future where humans are relieved of menial work using AI capabilities."</p>
 							</div>
 						</div>
 					</div>
-				</div>
-
-
-				<div class="row">
-					<div class="col-md-4 text-center">
-
-						<div class="feature-left">
-							<span class="icon">
-								<i class="icon-bargraph"></i>
-							</span>
-							<div class="feature-copy">
-								<h3>Web Developent</h3>
-								<p>Facilis ipsum reprehenderit nemo molestias. Aut cum mollitia reprehenderit.</p>
-							</div>
-						</div>
-
-					</div>
-
-					<div class="col-md-4 text-center">
-						<div class="feature-left">
-							<span class="icon">
-								<i class="icon-genius"></i>
-							</span>
-							<div class="feature-copy">
-								<h3>Web Marketing</h3>
-								<p>Facilis ipsum reprehenderit nemo molestias. Aut cum mollitia reprehenderit.</p>
-							</div>
-						</div>
-
-					</div>
-					<div class="col-md-4 text-center">
-						<div class="feature-left">
-							<span class="icon">
-								<i class="icon-chat"></i>
-							</span>
-							<div class="feature-copy">
-								<h3>Support</h3>
-								<p>Facilis ipsum reprehenderit nemo molestias. Aut cum mollitia reprehenderit.</p>
-							</div>
-						</div>
-					</div>
-				</div>
+					
+				
+           </div>
+										
+				
 			</div>
 		</div>
 	</div>
+
 
 	<div id="fh5co-skills" class="animate-box">
 		<div class="container">
@@ -362,24 +330,21 @@ mail($mailTo, $subject, $txt);
 				<div class="col-md-3 col-sm-6 col-xs-12 text-center">
 					<div class="chart" data-percent="90"><span><strong>Python</strong>90%</span></div>
 				</div>
-				<div class="col-md-3 col-sm-6 col-xs-12 text-center">
-					<div class="chart" data-percent="85"><span><strong>Raspberry Pi</strong>85%</span></div>
-				</div>
+				
 				<div class="col-md-3 col-sm-6 col-xs-12 text-center">
 					<div class="chart" data-percent="90"><span><strong>Java</strong>90%</span></div>
 				</div>
-				<div class="col-md-3 col-sm-6 col-xs-12 text-center">
-					<div class="chart" data-percent="90"><span><strong>Artificial Intelligence</strong>80%</span></div>
-				</div>
+				
 				<div class="col-md-3 col-sm-6 col-xs-12 text-center">
 					<div class="chart" data-percent="90"><span><strong>C</strong>90%</span></div>
 				</div>
 				<div class="col-md-3 col-sm-6 col-xs-12 text-center">
-					<div class="chart" data-percent="90"><span><strong>BootStrap3</strong>90%</span></div>
+					<div class="chart" data-percent="90"><span><strong>RPA Uipath</strong>75%</span></div>
 				</div>
 				<div class="col-md-3 col-sm-6 col-xs-12 text-center">
-					<div class="chart" data-percent="90"><span><strong>Python Tkinter</strong>90%</span></div>
+					<div class="chart" data-percent="90"><span><strong>BootStrap3</strong>90%</span></div>
 				</div>
+				
 			</div>
 			<div class="row">
 				<div class="col-md-6">
@@ -391,14 +356,7 @@ mail($mailTo, $subject, $txt);
 						  </div>
 						</div>
 					</div>
-					<div class="progress-wrap">
-						<h3><span class="name-left">WordPress</span><span class="value-right">90%</span></h3>
-						<div class="progress">
-						  <div class="progress-bar progress-bar-2 progress-bar-striped active" role="progressbar"
-						  aria-valuenow="90" aria-valuemin="0" aria-valuemax="100" style="width:90%">
-						  </div>
-						</div>
-					</div>
+					
 					<div class="progress-wrap">
 						<h3><span class="name-left">PHP</span><span class="value-right">80%</span></h3>
 						<div class="progress">
@@ -416,27 +374,13 @@ mail($mailTo, $subject, $txt);
 						</div>
 					</div>
 				</div>
-				<div class="col-md-6">
-					<div class="progress-wrap">
-						<h3><span class="name-left">Design</span><span class="value-right">100%</span></h3>
-						<div class="progress">
-						  <div class="progress-bar progress-bar-5 progress-bar-striped active" role="progressbar"
-						  aria-valuenow="100" aria-valuemin="0" aria-valuemax="100" style="width:100%">
-						  </div>
-						</div>
-					</div>
-					<div class="progress-wrap">
-						<h3><span class="name-left">Embedded Programming</span><span class="value-right">70%</span></h3>
-						<div class="progress">
-						  <div class="progress-bar progress-bar-striped active" role="progressbar"
-						  aria-valuenow="70" aria-valuemin="0" aria-valuemax="100" style="width:70%">
-						  </div>
-						</div>
-					</div>
+				
+                   <div class="col-md-6">
+					
 					<div class="progress-wrap">
 						<h3><span class="name-left">Python</span><span class="value-right">85%</span></h3>
 						<div class="progress">
-						  <div class="progress-bar progress-bar-1 progress-bar-striped active" role="progressbar"
+						  <div class="progress-bar progress-bar-4 progress-bar-striped active" role="progressbar"
 						  aria-valuenow="85" aria-valuemin="0" aria-valuemax="100" style="width:85%">
 						  </div>
 						</div>
@@ -444,15 +388,24 @@ mail($mailTo, $subject, $txt);
 					<div class="progress-wrap">
 						<h3><span class="name-left">JavaScript</span><span class="value-right">75%</span></h3>
 						<div class="progress">
-						  <div class="progress-bar progress-bar-3 progress-bar-striped active" role="progressbar"
+						  <div class="progress-bar progress-bar-4 progress-bar-striped active" role="progressbar"
+						  aria-valuenow="75" aria-valuemin="0" aria-valuemax="100" style="width:75%">
+						  </div>
+						</div>
+					</div>
+					<div class="progress-wrap">
+						<h3><span class="name-left">RPA Uipath</span><span class="value-right">70%</span></h3>
+						<div class="progress">
+						  <div class="progress-bar progress-bar-4 progress-bar-striped active" role="progressbar"
 						  aria-valuenow="75" aria-valuemin="0" aria-valuemax="100" style="width:75%">
 						  </div>
 						</div>
 					</div>
 				</div>
+				</div>
 			</div>
 		</div>
-	</div>
+	
 
 	<div id="fh5co-work" class="fh5co-bg-dark">
 		<div class="container">
@@ -535,17 +488,17 @@ mail($mailTo, $subject, $txt);
 			<div class="row animate-box">
 				<div class="col-md-8 col-md-offset-2 text-center fh5co-heading">
 					<h2>Post on Medium</h2>
-					<p>Dignissimos asperiores vitae velit veniam totam fuga molestias accusamus alias autem provident. Odit ab aliquam dolor eius.</p>
+					<p>"When people share your story on Facebook and Twitter, it will be more prominent in news feeds, making people more likely to click on it."</p>
 				</div>
 			</div>
 			<div class="row">
 				<div class="col-md-4">
 					<div class="fh5co-blog animate-box">
-						<a href="#" class="blog-bg" style="background-image: url(images/portfolio-1.jpg);"></a>
+						<a href="#" class="blog-bg" style="background-image: url(images/1.jpg);"></a>
 						<div class="blog-text">
-							<span class="posted_on">Mar. 15th 2016</span>
-							<h3><a href="#">Photoshoot On The Street</a></h3>
-							<p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.</p>
+							<span class="posted_on">Mar. 15th 2017</span>
+							<h3><a href="#">Cricket</a></h3>
+							<p>"Always Love to play Cricket at anytime and anywhere. Sachin Tendulkar the man who makes everyone Proud."</p>
 							<ul class="stuff">
 								<li><i class="icon-heart2"></i>249</li>
 								<li><i class="icon-eye2"></i>308</li>
@@ -556,9 +509,9 @@ mail($mailTo, $subject, $txt);
 				</div>
 				<div class="col-md-4">
 					<div class="fh5co-blog animate-box">
-						<a href="#" class="blog-bg" style="background-image: url(images/portfolio-2.jpg);"></a>
+						<a href="#" class="blog-bg" style="background-image: url(images/5.jpg);"></a>
 						<div class="blog-text">
-							<span class="posted_on">Mar. 15th 2016</span>
+							<span class="posted_on">Mar. 15th 2017</span>
 							<h3><a href="#">Surfing at Philippines</a></h3>
 							<p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.</p>
 							<ul class="stuff">
@@ -571,11 +524,11 @@ mail($mailTo, $subject, $txt);
 				</div>
 				<div class="col-md-4">
 					<div class="fh5co-blog animate-box">
-						<a href="#" class="blog-bg" style="background-image: url(images/portfolio-3.jpg);"></a>
+						<a href="#" class="blog-bg" style="background-image: url(images/3.jpg);"></a>
 						<div class="blog-text">
 							<span class="posted_on">Mar. 15th 2016</span>
 							<h3><a href="#">Capture Living On Uderwater</a></h3>
-							<p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.</p>
+							<p>"The fish in the water that is thirsty needs serious professional counseling."</p>
 							<ul class="stuff">
 								<li><i class="icon-heart2"></i>249</li>
 								<li><i class="icon-eye2"></i>308</li>
@@ -594,8 +547,7 @@ mail($mailTo, $subject, $txt);
 			<div class="row animate-box">
 				<div class="col-md-8 col-md-offset-2 text-center fh5co-heading">
 					<h2>Hire Me!</h2>
-					<p>Facilis ipsum reprehenderit nemo molestias. Aut cum mollitia reprehenderit. Eos cumque dicta adipisci architecto culpa amet.</p>
-					<p><a href="index1.php" class="btn btn-default btn-lg">Contact Us</a></p>
+					
 				</div>
 			</div>
 		</div>
@@ -637,11 +589,11 @@ mail($mailTo, $subject, $txt);
 
 				<div class="row form-group">
 					<div class="col-md-12">
-						<textarea name="message" id="message"  cols="30" rows="10" class="form-control" placeholder="Say something about me"></textarea>
+						<textarea name="message" id="message"  cols="20" rows="10" class="form-control" placeholder="Say something about us"></textarea>
 					</div>
 				</div>
 				<div class="form-group">
-					<input name="submit" type="submit" value="Send Message"  class="btn btn-primary">
+					<input name="submit" type="submit" value="Send Message" class="btn btn-primary">
 				</div>
 
 			</form>	
