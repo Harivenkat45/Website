@@ -577,7 +577,7 @@ mail($mailTo, $subject, $txt);
 
 				<div class="row form-group">
 					<div class="col-md-12">
-						<input type="text" id="email" name="email"  class="form-control" placeholder="Your email address">
+						<input type="text" id="femail" name="email"  class="form-control" placeholder="Your email address">
 					</div>
 				</div>
 
@@ -589,7 +589,7 @@ mail($mailTo, $subject, $txt);
 
 				<div class="row form-group">
 					<div class="col-md-12">
-						<textarea name="message" id="message"  cols="20" rows="10" class="form-control" placeholder="Say something about us"></textarea>
+						<textarea name="message" id="fmessage"  cols="20" rows="10" class="form-control" placeholder="Say something about us"></textarea>
 					</div>
 				</div>
 				<div class="form-group">
